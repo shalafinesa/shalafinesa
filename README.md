@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding and marketing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me - through e-mail
+- 😄 Pronouns: ... Fini
 - ⚡ Fun fact: love playin CS
 
 <!---
