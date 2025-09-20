@@ -55,7 +55,7 @@ With over **13 years of experience** in marketing, web development, and design, 
 ## 📫 How to Reach Me
 
 📧 **contacta@finesashala.eu**  
-💼 [LinkedIn](https://www.linkedin.com/in/finesashala)  
+💼 [LinkedIn](https://www.linkedin.com/in/shalafinesa)  
 🌐 [Portfolio](https://www.finesashala.eu)  
 
 ---
