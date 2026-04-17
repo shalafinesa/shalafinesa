@@ -1,4 +1,4 @@
-# Hi, I’m Finesa – Cloud Engineer & wordPress Expert 🌐☁️
+# Hi, I’m Finesa – QA & Cloud Engineer | 13+ yrs Digital Marketing & WordPress Expert 🌐☁️
 
 [![Python](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/) | [![AWS](https://img.shields.io/badge/Cloud-AWS-orange)](https://aws.amazon.com/) | [![Terraform](https://img.shields.io/badge/Infrastructure-Terraform-623CE4)](https://www.terraform.io/) | | [![WordPress](https://img.shields.io/badge/WordPress-blueviolet)](https://wordpress.org/) | [![HTML](https://img.shields.io/badge/HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://img.shields.io/badge/JavaScript-yellowgreen)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Portfolio](https://img.shields.io/badge/Portfolio-FinesaShala.eu-brightgreen)](https://www.finesashala.eu)
 
